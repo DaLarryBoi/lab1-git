@@ -12,3 +12,4 @@ woah this is so cool I have no idea what I'm doing
 - https://stackoverflow.com/questions/75964216/github-how-to-change-font-size-in-markdown-file
 - https://stackoverflow.com/questions/6245570/how-do-i-get-the-current-branch-name-in-git
 - https://www.markdownguide.org/basic-syntax/ 
+- https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/
