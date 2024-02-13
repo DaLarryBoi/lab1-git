@@ -1,6 +1,6 @@
 # <span style="font-size:1.75em;">Larry Zhao</span>
 woah this is so cool I have no idea what I'm doing
-# <u>**"Resources"**</u>
+# <u>**"RESOURCES"**</u>
 - https://code.visualstudio.com/docs/languages/markdown 
 - https://www.markdownguide.org/getting-started/ 
 - https://github.com/git-guides/git-init
